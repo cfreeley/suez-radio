@@ -1,1 +1,16 @@
-["index.md"]
+[
+    [
+        {
+            "filename": "index.md",
+            "attr": {
+                "data-transition": "linear"
+            }
+        },
+        "about.md"
+    ],
+    [
+        "episodes.md",
+        "episode1.md",
+        "episode2.md"
+    ]
+]
