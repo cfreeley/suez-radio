@@ -1,3 +1,2 @@
 ##  episodes
-
-This is a new Markdown slide
+<img src="slides/images/episodes.png" />

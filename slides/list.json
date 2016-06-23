@@ -8,9 +8,23 @@
         },
         "about.md"
     ],
+    "episodes.md",
     [
-        "episodes.md",
         "episode1.md",
-        "episode2.md"
+        {
+            "filename": "episode1about.md",
+            "attr": {
+                "data-background": "slides/images/notesbackground.png"
+            }
+        }
+    ],
+    [
+        "episode2.md",
+        {
+            "filename": "episode2about.md",
+            "attr": {
+                "data-background": "slides/images/notesbackground.png"
+            }
+        }
     ]
 ]
