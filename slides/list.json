@@ -1,11 +1,7 @@
 [
+    "index.md",
     [
-        {
-            "filename": "index.md",
-            "attr": {
-                "data-transition": "linear"
-            }
-        },
+        "title.md",
         "about.md"
     ],
     "episodes.md",

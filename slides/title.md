@@ -1,0 +1,1 @@
+<image src="slides/images/logo.png" style="width:75%">
