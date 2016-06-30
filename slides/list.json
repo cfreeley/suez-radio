@@ -1,26 +1,11 @@
 [
-    "index.md",
     [
         "title.md",
-        "about.md"
+        "about.md",
+        "contact.md"
     ],
     "episodes.md",
-    [
-        "episode1.md",
-        {
-            "filename": "episode1about.md",
-            "attr": {
-                "data-background": "slides/images/notesbackground.png"
-            }
-        }
-    ],
-    [
-        "episode2.md",
-        {
-            "filename": "episode2about.md",
-            "attr": {
-                "data-background": "slides/images/notesbackground.png"
-            }
-        }
-    ]
+    "episode1.md",
+    "episode2.md",
+    "index.md"
 ]
