@@ -5,20 +5,12 @@
     </div>
     <br>
     <table>
-        <td><img src="slides/images/episode2.png" style="vertical-align:top"></td>
+        <td style="width:275px"><img src="slides/images/episode2.png" style="vertical-align:top"></td>
         <td style="vertical-align:middle">Step backwards in time to when the meteoric rise of Egypt was finally checked – to the beginning of the North Yemen Civil War – and see the way history repeats itself.
     </td>
     </table>
     <br>
-    <table>
-        <td>
-            <a>
-                <img src="slides/images/mic.png" style="vertical-align:top; width:30px">
-            </a>
-        </td>
-        <td style="vertical-align:middle">Listen </td>
-    </table>
-    </div>
+    Or <a>Download from iTunes</a>
 </section>
 
 <section data-background="slides/images/notesbackground.png">
